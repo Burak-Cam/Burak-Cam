@@ -76,7 +76,7 @@ Bitirme projem — ASYU 2026 konferansında kabul edilen akademik çalışma. De
 ### 📫 Bana Ulaşın
 
 <p align="center">
-  <a href="https://linkedin.com/in/KULLANICI-ADINI-YAZ">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/burak-%C3%A7am/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:burakcam.dev@gmail.com">
