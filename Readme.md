@@ -54,8 +54,8 @@ Graduation project, accepted at the ASYU 2026 conference. Details coming soon.
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Burak-Cam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Burak-Cam&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="./profile/stats.svg" />
+  <img height="165" src="./profile/top-langs.svg" />
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ Graduation project, accepted at the ASYU 2026 conference. Details coming soon.
 ### Contact
 
 <p align="center">
-  <a href="https://linkedin.com/in/KULLANICI-ADINI-YAZ">
+  <a href="https://linkedin.com/in/burak-çam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:burakcam.dev@gmail.com">
